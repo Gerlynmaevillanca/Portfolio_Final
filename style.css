@@ -1,0 +1,40 @@
+body {
+    scroll-behavior: smooth;
+    height: 100vh;
+    padding-top: 56px; 
+}
+html {
+    scroll-behavior: smooth;
+}
+html::-webkit-scrollbar {
+    display: none;
+}
+
+#about {
+    padding-top: 55px;
+}
+
+.nav-item {
+    margin-right: 15px;
+}
+.house {
+    height: 100vh;
+}
+section .fas,
+section .fab {
+  color: #000000;
+  font-size: 35px;
+}
+.custom-col {
+    margin-top: 25%;
+  }
+
+  img.rounded-circle {
+    height: auto;
+    width: 110%;
+  }
+
+  ::before {
+    color: black;
+    font-size: 35px;
+}
